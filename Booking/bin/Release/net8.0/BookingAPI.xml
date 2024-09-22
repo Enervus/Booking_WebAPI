@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Booking.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Booking.Api.ConfigureSwaggerOptions.Configure(System.String,Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions)">
+            <summary>
+            Настройка Swagger Options. Унаследован от интерфейса
+            </summary>
+            <param name="name"></param>
+            <param name="options"></param>
+        </member>
+        <member name="M:Booking.Api.ConfigureSwaggerOptions.Configure(Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenOptions)">
+            <summary>
+            Настройка документации Swagger для каждого обнаруженного API
+            </summary>
+            <param name="options"></param>
+        </member>
+        <member name="M:Booking.Api.ConfigureSwaggerOptions.CreateVersionInfo(Microsoft.AspNetCore.Mvc.ApiExplorer.ApiVersionDescription)">
+            <summary>
+            Добавляется информации о версии API
+            </summary>
+            <param name="description"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Booking.Api.Controllers.AuthController.Register(Booking.Domain.Dto.User.RegisterUserDto)">
+            <summary>
+            Регистрация пользователя
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Booking.Api.Controllers.AuthController.Login(Booking.Domain.Dto.User.LoginUserDto)">
+            <summary>
+            Логин пользователя
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Booking.Api.Controllers.RoleController.Create(Booking.Domain.Dto.RoleDto.CreateRoleDto)">
+            <summary>
+            Создание роли
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+               Sample request:
+               
+                   POST
+                   {
+                       "name": "User",
+                   }
+            </remarks>
+            <response code = "200">Если роль создалась</response>
+            <response code = "400">Если роль не была создана</response>
+        </member>
+        <member name="M:Booking.Api.Controllers.RoleController.AddRoleForUser(Booking.Domain.Dto.UserRoleDto.UserRoleDto)">
+            <summary>
+            Добавление роли пользователю
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+               Sample request:
+               
+                   POST
+                   {
+                       "login": "User#1",
+                       "roleName": "User"
+                   }
+            </remarks>
+            <response code = "200">Если роль была добавлена</response>
+            <response code = "400">Если роль не была добавлена</response>
+        </member>
+        <member name="M:Booking.Api.Controllers.RoleController.DeleteRoleForUser(Booking.Domain.Dto.UserRoleDto.DeleteUserRoleDto)">
+            <summary>
+            Удаление роли у пользователя
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+               Sample request:
+               
+                   DELETE
+                   {
+                       "login": "User#1",
+                       "roleId": 1
+                   }
+            </remarks>
+            <response code = "200">Если роль была удалена у пользователя</response>
+            <response code = "400">Если роль не была удалена у пользователя</response>
+        </member>
+        <member name="M:Booking.Api.Controllers.RoleController.UpdateRoleForUser(Booking.Domain.Dto.UserRoleDto.UpdateUserRoleDto)">
+            <summary>
+            Удаление роли у пользователя
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+               Sample request:
+               
+                   PUT
+                   {
+                       "login": "User#1",
+                       "oldRoleId": 1,
+                       "newRoleId": 2,
+                   }
+            </remarks>
+            <response code = "200">Если роль была обнавлена у пользователя</response>
+            <response code = "400">Если роль не была обнавлена у пользователя</response>
+        </member>
+        <member name="M:Booking.Api.Controllers.RoleController.Update(Booking.Domain.Dto.RoleDto.RoleDto)">
+            <summary>
+            Обновление роли
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+               Sample request:
+               
+                   PUT
+                   {
+                       "id":1
+                       "name": "User",
+                   }
+            </remarks>
+            <response code = "200">Если роль обновилась</response>
+            <response code = "400">Если роль не была обновлена</response>
+        </member>
+        <member name="M:Booking.Api.Controllers.RoleController.Delete(System.Int64)">
+            <summary>
+            Удаление роли
+            </summary>
+            <param name="id"></param>
+            <remarks>
+               Sample request:
+               
+                   DELETE
+                   {
+                       "id": 1,
+                   }
+            </remarks>
+            <response code = "200">Если роль удалилась</response>
+            <response code = "400">Если роль не была удалена</response>
+        </member>
+        <member name="M:Booking.Api.Controllers.TokenController.RefreshToken(Booking.Domain.Dto.User.TokenDto)">
+            <summary>
+            Обновление токенов
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Booking.Api.Controllers.v1.FacilityController.GetFacility(System.Int64)">
+            <summary>
+            Получение объекта с указанием идентификатора
+            </summary>
+            <param name="id"></param>
+            <remarks>
+               Sample request:
+               
+                   GET
+                   {
+                       "id": 1,
+                   }
+            </remarks>
+        </member>
+        <member name="M:Booking.Api.Controllers.v1.FacilityController.GetFacilitiesByType(System.Int32)">
+            <summary>
+            Получение объектов с указанием типа
+            </summary>
+            <param name="facilityType"></param>
+            <remarks>
+            Sample request:
+            
+                GET
+                {
+                    "facilityType": 1,
+                }
+            </remarks>
+              /// <response code = "200">Успешное выполнение</response>
+            <response code = "400">Ошибка API</response>
+        </member>
+        <member name="M:Booking.Api.Controllers.v1.FacilityController.GetUserFacilities(System.Int64)">
+            <summary>
+            Получение объектов, принадлежащих пользователю (с указанием его идентификатора) 
+            </summary>
+            <param name="userId"></param>
+            <remarks>
+            Sample request:
+            
+                GET
+                {
+                    "userId": 1,
+                }
+            </remarks>
+            <response code = "200">Успешное выполнение</response>
+            <response code = "400">Ошибка API</response>
+        </member>
+        <member name="M:Booking.Api.Controllers.v1.FacilityController.GetAllFacilities">
+            <summary>
+            Получение всех объектов
+            </summary>
+            <response code = "200">Успешное выполнение</response>
+            <response code = "400">Ошибка API</response>
+            
+        </member>
+        <member name="M:Booking.Api.Controllers.v1.FacilityController.Delete(System.Int64)">
+            <summary>
+            Удаление объекта с указанием идентификатора
+            </summary>
+            <param name="id"></param>
+            <remarks>
+               Sample request:
+               
+                   DELETE
+                   {
+                       "id": 1,
+                   }
+            </remarks>
+            <response code = "200">Успешное выполнение</response>
+            <response code = "400">Ошибка API</response>
+        </member>
+        <member name="M:Booking.Api.Controllers.v1.FacilityController.Create(Booking.Domain.Dto.Facility.CreateFacilityDto)">
+            <summary>
+            Создание объекта
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Sample request:
+            
+                POST
+                { 
+                   "name" = "Facility№1",
+                   "facilityType" = 1,
+                   "address" = "test",
+                   "status" = 1
+                   "cost" = 11111,
+                   "coefficient" = 1,
+                   "description" =  "Test",
+                   "postStatus" = 1,
+                   "userId": 1
+                }
+            </remarks>
+            <response code = "200">Успешное выполнение</response>
+            <response code = "400">Ошибка API</response>
+        </member>
+        <member name="M:Booking.Api.Controllers.v1.FacilityController.Update(Booking.Domain.Dto.Facility.UpdateFacilityDto)">
+            <summary>
+            Обновление объекта с указанеием основных свойств
+            </summary>
+            <param name="dto"></param>
+            <remarks>
+            Sample request:
+            
+                PUT
+                {
+                   "id": 1
+                   "name" = "Facility№2",
+                   "status" = 0,
+                   "cost" = 222222,
+                   "coefficient" = 2,
+                   "description" =  "Test_2",
+                   "postStatus" = 0,
+                }
+            </remarks>
+            <response code = "200">Успешное выполнение</response>
+            <response code = "400">Ошибка API</response>
+        </member>
+        <member name="M:Booking.Api.Startup.AddSwagger(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Подключение Swagger
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Booking.Api.Startup.AddAuthenticationAndAuthorization(Microsoft.Extensions.DependencyInjection.IServiceCollection,Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            Подключение аутентификации и авторизации
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>

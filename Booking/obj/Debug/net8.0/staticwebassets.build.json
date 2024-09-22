@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "vk7UnfhitPa9kdCC7gI8rVxQLBQFCRrTIOx1IfniILw=",
+  "Source": "Booking.Api",
+  "BasePath": "_content/Booking.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Booking.Api\\wwwroot",
+      "Source": "Booking.Api",
+      "ContentRoot": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\wwwroot\\",
+      "BasePath": "_content/Booking.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\wwwroot\\images\\1234\\dom.jpg",
+      "SourceId": "Booking.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\wwwroot\\",
+      "BasePath": "_content/Booking.Api",
+      "RelativePath": "images/1234/dom.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1234\\dom.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\wwwroot\\images\\default.jpg",
+      "SourceId": "Booking.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\wwwroot\\",
+      "BasePath": "_content/Booking.Api",
+      "RelativePath": "images/default.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\default.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\wwwroot\\images\\string\\dom.jpg",
+      "SourceId": "Booking.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\wwwroot\\",
+      "BasePath": "_content/Booking.Api",
+      "RelativePath": "images/string/dom.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\string\\dom.jpg"
+    }
+  ]
+}

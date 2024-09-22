@@ -1,0 +1,1410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danil\\AppData\\Roaming\\Microsoft\\UserSecrets\\9ec28e6b-59e4-4629-b177-0d1f10f5e2fc\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\databases\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\databases\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\services\\facilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\services\\facilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\middlewares\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\validations\\fluentvalidations\\facilityvalidations\\facilityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\validations\\fluentvalidations\\facilityvalidations\\facilityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\validations\\ibasevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\validations\\ibasevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\booking.application\\resources\\errormessage.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\resources\\errormessage.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\validations\\ifacilityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\validations\\ifacilityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\result\\collectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\result\\collectionresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\result\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\result\\baseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\mapping\\ordermaping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\mapping\\ordermaping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\configurations\\facilityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\configurations\\facilityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\ientityid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\ientityid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\dependencyinjection\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\interceptors\\dateinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\interceptors\\dateinterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\repositories\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\databases\\istatesavechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\databases\\istatesavechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\entity\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\entity\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\booking.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\booking.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\bookingapi.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\bookingapi.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\booking.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\booking.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\booking.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\booking.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\userdto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\userdto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\userdto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\facilitydto\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\facilitydto\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\configurations\\orderfacilityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\configurations\\orderfacilityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\configurations\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\enum\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\enum\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\userroledto\\deleteuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\userroledto\\deleteuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\userroledto\\updateuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\userroledto\\updateuserroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\userroledto\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\userroledto\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\services\\ifacilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\services\\ifacilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\orderdto\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\orderdto\\updateorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\orderdto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\orderdto\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\facilitydto\\createfacilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\facilitydto\\createfacilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\facilitydto\\updatefacilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\facilitydto\\updatefacilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\booking.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\booking.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\booking.application\\resources\\errormessage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\resources\\errormessage.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\validations\\iordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\validations\\iordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\validations\\fluentvalidations\\facilityvalidations\\updatefacilityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\validations\\fluentvalidations\\facilityvalidations\\updatefacilityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\mapping\\facilitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\mapping\\facilitymapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\roledto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\roledto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\userdto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\userdto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\mapping\\usermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\controllers\\v1\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\controllers\\v1\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.dal\\configurations\\usertokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7DB0C-D151-474F-AA29-DF41A7D2DF2F}|Booking.DAL\\Booking.DAL.csproj|solutionrelative:booking.dal\\configurations\\usertokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\entity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\entity\\orderfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\entity\\orderfacility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\controllers\\v1\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\iauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\booking.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\booking.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\enum\\facilitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\enum\\facilitytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\entity\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\entity\\usertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking\\controllers\\v1\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0100CE1A-7364-419E-BB93-8C6C05398182}|Booking\\Booking.Api.csproj|solutionrelative:booking\\controllers\\v1\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\orderdto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\orderdto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\enum\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\userdto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\userdto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.application\\validations\\fluentvalidations\\ordervalidations\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\validations\\fluentvalidations\\ordervalidations\\ordervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\dto\\userdto\\userallinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\dto\\userdto\\userallinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|c:\\users\\danil\\source\\repos\\booking_webapi\\booking.domain\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2C8ED4-AD2C-4603-9D0B-26703A1BA0C2}|Booking.Domain\\Booking.Domain.csproj|solutionrelative:booking.domain\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\booking.application\\resources\\errormessage.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{9B5E563E-94C6-4E5A-99CC-5FD3F89BACCC}|Booking.Application\\Booking.Application.csproj|solutionrelative:booking.application\\resources\\errormessage.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Databases\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\Databases\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Databases\\IUnitOfWork.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\Databases\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:02:12.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FacilityValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Validations\\FluentValidations\\FacilityValidations\\FacilityValidator.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Validations\\FluentValidations\\FacilityValidations\\FacilityValidator.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Validations\\FluentValidations\\FacilityValidations\\FacilityValidator.cs",
+              "RelativeToolTip": "Booking.Application\\Validations\\FluentValidations\\FacilityValidations\\FacilityValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:38:35.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigureSwaggerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "Booking\\ConfigureSwaggerOptions.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "Booking\\ConfigureSwaggerOptions.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:49:27.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Startup.cs",
+              "RelativeDocumentMoniker": "Booking\\Startup.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Startup.cs",
+              "RelativeToolTip": "Booking\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:54:31.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\danil\\AppData\\Roaming\\Microsoft\\UserSecrets\\9ec28e6b-59e4-4629-b177-0d1f10f5e2fc\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\9ec28e6b-59e4-4629-b177-0d1f10f5e2fc\\secrets.json",
+              "ToolTip": "C:\\Users\\danil\\AppData\\Roaming\\Microsoft\\UserSecrets\\9ec28e6b-59e4-4629-b177-0d1f10f5e2fc\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\9ec28e6b-59e4-4629-b177-0d1f10f5e2fc\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T09:53:00.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Booking\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Booking\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwEEAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:28:17.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Program.cs",
+              "RelativeDocumentMoniker": "Booking\\Program.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Program.cs",
+              "RelativeToolTip": "Booking\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:34:00.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Booking\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Booking\\Middlewares\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:34:56.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\RoleService.cs",
+              "RelativeToolTip": "Booking.Application\\Services\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:52:06.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Booking.DAL\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:51:07.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "Booking.Application\\Services\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:43:50.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacilityService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\FacilityService.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Services\\FacilityService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\FacilityService.cs",
+              "RelativeToolTip": "Booking.Application\\Services\\FacilityService.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAwwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:08:43.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Booking.Application\\Services\\AuthService.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:09:49.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "Booking.Application\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwCAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T12:40:20.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBaseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Validations\\IBaseValidator.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\Validations\\IBaseValidator.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Validations\\IBaseValidator.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\Validations\\IBaseValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:42:16.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorMessage.en.resx",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Resources\\ErrorMessage.en.resx",
+              "RelativeDocumentMoniker": "Booking.Application\\Resources\\ErrorMessage.en.resx",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Resources\\ErrorMessage.en.resx",
+              "RelativeToolTip": "Booking.Application\\Resources\\ErrorMessage.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-06T12:26:43.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFacilityValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Validations\\IFacilityValidator.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\Validations\\IFacilityValidator.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Validations\\IFacilityValidator.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\Validations\\IFacilityValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:43:44.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CollectionResult.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Result\\CollectionResult.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Result\\CollectionResult.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Result\\CollectionResult.cs",
+              "RelativeToolTip": "Booking.Domain\\Result\\CollectionResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:55:43.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseResult.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Result\\BaseResult.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Result\\BaseResult.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Result\\BaseResult.cs",
+              "RelativeToolTip": "Booking.Domain\\Result\\BaseResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T11:50:39.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\appsettings.json",
+              "RelativeDocumentMoniker": "Booking\\appsettings.json",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\appsettings.json",
+              "RelativeToolTip": "Booking\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T12:53:18.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderMaping.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Mapping\\OrderMaping.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Mapping\\OrderMaping.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Mapping\\OrderMaping.cs",
+              "RelativeToolTip": "Booking.Application\\Mapping\\OrderMaping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:08:34.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FacilityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\FacilityConfiguration.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\Configurations\\FacilityConfiguration.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\FacilityConfiguration.cs",
+              "RelativeToolTip": "Booking.DAL\\Configurations\\FacilityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:52:07.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Booking.DAL\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:55:10.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IEntityId.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\IEntityId.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\IEntityId.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\IEntityId.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\IEntityId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:57:00.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "RelativeToolTip": "Booking.DAL\\DependencyInjection\\DependencyInjection.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:05:02.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DateInterceptor.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Interceptors\\DateInterceptor.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\Interceptors\\DateInterceptor.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Interceptors\\DateInterceptor.cs",
+              "RelativeToolTip": "Booking.DAL\\Interceptors\\DateInterceptor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:27:31.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Booking.DAL\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:41:19.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Repositories\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\Repositories\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Repositories\\IBaseRepository.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\Repositories\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:58:49.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IStateSaveChanges.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Databases\\IStateSaveChanges.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\Databases\\IStateSaveChanges.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Databases\\IStateSaveChanges.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\Databases\\IStateSaveChanges.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:09:30.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\Facility.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Entity\\Facility.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\Facility.cs",
+              "RelativeToolTip": "Booking.Domain\\Entity\\Facility.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:46:12.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\Role.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Entity\\Role.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\Role.cs",
+              "RelativeToolTip": "Booking.Domain\\Entity\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:13:14.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "Booking.DAL\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:53:43.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Booking.Api",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Booking.Api.csproj",
+              "RelativeDocumentMoniker": "Booking\\Booking.Api.csproj",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Booking.Api.csproj",
+              "RelativeToolTip": "Booking\\Booking.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T10:16:47.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BookingAPI.xml",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\BookingAPI.xml",
+              "RelativeDocumentMoniker": "Booking\\BookingAPI.xml",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\BookingAPI.xml",
+              "RelativeToolTip": "Booking\\BookingAPI.xml",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-01T09:49:17.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Booking.Application",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Booking.Application.csproj",
+              "RelativeDocumentMoniker": "Booking.Application\\Booking.Application.csproj",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Booking.Application.csproj",
+              "RelativeToolTip": "Booking.Application\\Booking.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T10:15:55.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Booking.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:42:27.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserDto\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\UserDto\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserDto\\LoginUserDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\UserDto\\LoginUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:09:20.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserDto\\UserDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\UserDto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserDto\\UserDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\UserDto\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:26:25.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Booking.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Booking.DAL.csproj",
+              "RelativeDocumentMoniker": "Booking.DAL\\Booking.DAL.csproj",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Booking.DAL.csproj",
+              "RelativeToolTip": "Booking.DAL\\Booking.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T09:36:55.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FacilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\FacilityDto\\FacilityDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\FacilityDto\\FacilityDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\FacilityDto\\FacilityDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\FacilityDto\\FacilityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:07:34.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\User.cs",
+              "RelativeToolTip": "Booking.Domain\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:46:48.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Booking\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Booking\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAwwNMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:18:30.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Booking.DAL\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:52:42.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderFacilityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\OrderFacilityConfiguration.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\Configurations\\OrderFacilityConfiguration.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\OrderFacilityConfiguration.cs",
+              "RelativeToolTip": "Booking.DAL\\Configurations\\OrderFacilityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T08:07:24.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "Booking.DAL\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:52:09.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\Configurations\\UserRoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "Booking.DAL\\Configurations\\UserRoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:53:49.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Enum\\Roles.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Enum\\Roles.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Enum\\Roles.cs",
+              "RelativeToolTip": "Booking.Domain\\Enum\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:09:26.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\UserRole.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Entity\\UserRole.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\UserRole.cs",
+              "RelativeToolTip": "Booking.Domain\\Entity\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:47:34.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DeleteUserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserRoleDto\\DeleteUserRoleDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\UserRoleDto\\DeleteUserRoleDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserRoleDto\\DeleteUserRoleDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\UserRoleDto\\DeleteUserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:11:35.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UpdateUserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserRoleDto\\UpdateUserRoleDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\UserRoleDto\\UpdateUserRoleDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserRoleDto\\UpdateUserRoleDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\UserRoleDto\\UpdateUserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:30:56.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserRoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserRoleDto\\UserRoleDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\UserRoleDto\\UserRoleDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserRoleDto\\UserRoleDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\UserRoleDto\\UserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:05:09.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UpdateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\OrderDto\\UpdateOrderDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\OrderDto\\UpdateOrderDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\OrderDto\\UpdateOrderDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\OrderDto\\UpdateOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:50:19.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\OrderDto\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\OrderDto\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\OrderDto\\CreateOrderDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\OrderDto\\CreateOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:50:09.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateFacilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\FacilityDto\\CreateFacilityDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\FacilityDto\\CreateFacilityDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\FacilityDto\\CreateFacilityDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\FacilityDto\\CreateFacilityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:47:20.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IFacilityService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Services\\IFacilityService.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\Services\\IFacilityService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Services\\IFacilityService.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\Services\\IFacilityService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:43:14.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdateFacilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\FacilityDto\\UpdateFacilityDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\FacilityDto\\UpdateFacilityDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\FacilityDto\\UpdateFacilityDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\FacilityDto\\UpdateFacilityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:49:07.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Booking.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Booking.Application.csproj",
+              "RelativeDocumentMoniker": "Booking.Application\\Booking.Application.csproj",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Booking.Application.csproj",
+              "RelativeToolTip": "Booking.Application\\Booking.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-19T10:07:18.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UpdateFacilityValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Validations\\FluentValidations\\FacilityValidations\\UpdateFacilityValidator.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Validations\\FluentValidations\\FacilityValidations\\UpdateFacilityValidator.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Validations\\FluentValidations\\FacilityValidations\\UpdateFacilityValidator.cs",
+              "RelativeToolTip": "Booking.Application\\Validations\\FluentValidations\\FacilityValidations\\UpdateFacilityValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:38:33.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ErrorMessage.resx",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Resources\\ErrorMessage.resx",
+              "RelativeDocumentMoniker": "Booking.Application\\Resources\\ErrorMessage.resx",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Resources\\ErrorMessage.resx",
+              "RelativeToolTip": "Booking.Application\\Resources\\ErrorMessage.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-06T12:27:08.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IOrderValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Validations\\IOrderValidator.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\Validations\\IOrderValidator.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Validations\\IOrderValidator.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\Validations\\IOrderValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:55:06.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "Booking.Application\\Services\\OrderService.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAMwKAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:47:55.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserDto\\TokenDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\UserDto\\TokenDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserDto\\TokenDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\UserDto\\TokenDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:26:28.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserMapping.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Mapping\\UserMapping.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Mapping\\UserMapping.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Mapping\\UserMapping.cs",
+              "RelativeToolTip": "Booking.Application\\Mapping\\UserMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:24:50.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FacilityMapping.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Mapping\\FacilityMapping.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Mapping\\FacilityMapping.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Mapping\\FacilityMapping.cs",
+              "RelativeToolTip": "Booking.Application\\Mapping\\FacilityMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:57:15.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FacilityController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\v1\\FacilityController.cs",
+              "RelativeDocumentMoniker": "Booking\\Controllers\\v1\\FacilityController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\v1\\FacilityController.cs",
+              "RelativeToolTip": "Booking\\Controllers\\v1\\FacilityController.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAowPgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:48:18.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\RoleDto\\RoleDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\RoleDto\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\RoleDto\\RoleDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\RoleDto\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:05:20.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "UserTokenConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\UserTokenConfiguration.cs",
+              "RelativeDocumentMoniker": "Booking.DAL\\Configurations\\UserTokenConfiguration.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.DAL\\Configurations\\UserTokenConfiguration.cs",
+              "RelativeToolTip": "Booking.DAL\\Configurations\\UserTokenConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:00:43.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "OrderFacility.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\OrderFacility.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Entity\\OrderFacility.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\OrderFacility.cs",
+              "RelativeToolTip": "Booking.Domain\\Entity\\OrderFacility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:51:47.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\Order.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Entity\\Order.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\Order.cs",
+              "RelativeToolTip": "Booking.Domain\\Entity\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:54:35.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\IAuditable.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\IAuditable.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\IAuditable.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\IAuditable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:19:47.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\v1\\UserController.cs",
+              "RelativeDocumentMoniker": "Booking\\Controllers\\v1\\UserController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\v1\\UserController.cs",
+              "RelativeToolTip": "Booking\\Controllers\\v1\\UserController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAcwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:26:48.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Booking.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Booking.Domain.csproj",
+              "RelativeDocumentMoniker": "Booking.Domain\\Booking.Domain.csproj",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Booking.Domain.csproj",
+              "RelativeToolTip": "Booking.Domain\\Booking.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T13:10:24.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "FacilityType.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Enum\\FacilityType.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Enum\\FacilityType.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Enum\\FacilityType.cs",
+              "RelativeToolTip": "Booking.Domain\\Enum\\FacilityType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:48:45.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Booking\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Booking\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T13:57:24.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "UserToken.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\UserToken.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Entity\\UserToken.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Entity\\UserToken.cs",
+              "RelativeToolTip": "Booking.Domain\\Entity\\UserToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:50:10.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Booking\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Booking\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:13:27.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:52:28.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\OrderDto\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\OrderDto\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\OrderDto\\OrderDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\OrderDto\\OrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:08:05.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\v1\\OrderController.cs",
+              "RelativeDocumentMoniker": "Booking\\Controllers\\v1\\OrderController.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking\\Controllers\\v1\\OrderController.cs",
+              "RelativeToolTip": "Booking\\Controllers\\v1\\OrderController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAowMgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:00:33.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\Services\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T08:47:40.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "OrderValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Validations\\FluentValidations\\OrderValidations\\OrderValidator.cs",
+              "RelativeDocumentMoniker": "Booking.Application\\Validations\\FluentValidations\\OrderValidations\\OrderValidator.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Validations\\FluentValidations\\OrderValidations\\OrderValidator.cs",
+              "RelativeToolTip": "Booking.Application\\Validations\\FluentValidations\\OrderValidations\\OrderValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBpwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:55:12.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserDto\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\UserDto\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserDto\\RegisterUserDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\UserDto\\RegisterUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:09:23.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Enum\\Status.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Enum\\Status.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Enum\\Status.cs",
+              "RelativeToolTip": "Booking.Domain\\Enum\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:46:16.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "UserAllInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserDto\\UserAllInfoDto.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Dto\\UserDto\\UserAllInfoDto.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Dto\\UserDto\\UserAllInfoDto.cs",
+              "RelativeToolTip": "Booking.Domain\\Dto\\UserDto\\UserAllInfoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:37:57.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Booking.Domain\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Domain\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "Booking.Domain\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:42:38.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ErrorMessage.ru.resx",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Resources\\ErrorMessage.ru.resx",
+              "RelativeDocumentMoniker": "Booking.Application\\Resources\\ErrorMessage.ru.resx",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\Booking_WebAPI\\Booking.Application\\Resources\\ErrorMessage.ru.resx",
+              "RelativeToolTip": "Booking.Application\\Resources\\ErrorMessage.ru.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-06T12:27:37.681Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 363,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
