@@ -85,7 +85,7 @@ namespace Booking.Application.Services
         public async Task<BaseResult<RoleDto>> CreateRoleAsync(CreateRoleDto dto)
         {
             var role = await _roleRepository.GetAll().FirstOrDefaultAsync(x => x.Name == dto.Name);  
-            if(role!=null)///перенести все проверки в валидатор
+            if(role!=null)
             {
                 return new BaseResult<RoleDto>()
                 {
@@ -109,7 +109,7 @@ namespace Booking.Application.Services
         public async Task<BaseResult<RoleDto>> DeleteRoleAsync(long id)
         {
             var role = await _roleRepository.GetAll().FirstOrDefaultAsync(x => x.Id == id);
-            if (role == null)///перенести все проверки в валидатор
+            if (role == null)
             {
                 return new BaseResult<RoleDto>()
                 {
@@ -242,7 +242,7 @@ namespace Booking.Application.Services
         public async Task<BaseResult<RoleDto>> UpdateRoleAsync(RoleDto dto)
         {
             var role = await _roleRepository.GetAll().FirstOrDefaultAsync(x=>x.Id == dto.Id);
-            if (role == null)///перенести все проверки в валидатор
+            if (role == null)
             {
                 return new BaseResult<RoleDto>()
                 {
