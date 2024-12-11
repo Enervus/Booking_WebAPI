@@ -43,7 +43,7 @@ namespace Booking.Application.Services
                    .Where(x => x.UserId == userId)
                    .Select(x => new FacilityDto(x.Id, x.Name, x.FacilityType, x.Address, x.Cost,
                        x.Coefficient, x.Description, x.Status, x.ImgPath, x.ImgPath, x.CreatedAt.ToLongDateString(), x.CreatedBy))
-                   .ToArrayAsync(); //ToArrayAsync тк он из EF Core
+                   .ToArrayAsync(); 
 
             if (!facilities.Any())
             {
