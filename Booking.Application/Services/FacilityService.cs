@@ -71,7 +71,7 @@ namespace Booking.Application.Services
                        .AsEnumerable()
                       .Select(x => new FacilityDto(x.Id, x.Name, x.FacilityType, x.Address, x.Cost,
                           x.Coefficient, x.Description, x.Status, x.ImgName, x.ImgPath, x.CreatedAt.ToLongDateString(), x.CreatedBy))
-                      .FirstOrDefault(x => x.Id == id);//async убрали, так как Queryable не позволяет выполнить ToLongDateString()
+                      .FirstOrDefault(x => x.Id == id);
 
             if (facility == null)
             {
